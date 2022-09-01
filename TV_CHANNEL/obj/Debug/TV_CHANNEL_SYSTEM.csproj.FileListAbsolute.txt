@@ -1,0 +1,16 @@
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.exe.config
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.exe
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.pdb
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL.exe
+C:\Users\pt\source\repos\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL.pdb
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.exe.config
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.exe
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\bin\Debug\TV_CHANNEL.pdb
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL.exe
+C:\Users\pt\Desktop\TV_CHANNEL\TV_CHANNEL\obj\Debug\TV_CHANNEL.pdb
